@@ -1,10 +1,5 @@
 # Write-a-Speaker
-Mocap Dataset of “Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation”
-[paper](https://arxiv.org/pdf/2104.07995.pdf)    [demo video](https://www.youtube.com/watch?v=weHA6LHv-Ew)  dataset
-
-### Emotional Mocap Dataset
-#### Introduction
-Some facial expression blendshapes are illustrated as blow. The full 51 facial expression blendshapes can be observed in **./images**.
+The emotional Motion Capture dataset has been introduced in our paper of “[Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation](https://arxiv.org/pdf/2104.07995.pdf)” published in AAAI2021. The [demo video](https://www.youtube.com/watch?v=weHA6LHv-Ew) shows the generated talking face results relying on the dataset. Some examples of facial expression blendshapes are illustrated as blow. The full 51 facial expression blendshapes can be observed in **./images**.
 
 ![parameter 0](images/dim0.gif) ![parameter 1](images/dim1.gif?raw=true) ![parameter 15](images/dim15.gif?raw=true)
 
@@ -12,4 +7,6 @@ Some facial expression blendshapes are illustrated as blow. The full 51 facial e
 
 
 #### Downloading
-The dataset is released with Google Drive. Please download and read the LICENSE AGREEMENT carefully, and send the manual-signed license agreement and your gmail to dingyu01@corp.netease.com via email. We will add your gmail to the shared list. **Note: the permission for application is only open to researchers or faculty of universities or research institutes. It is prohibited for students to apply.**
+
+Please download and read the LICENSE AGREEMENT carefully, and send the license agreement with your handwritten signature to dingyu01@corp.netease.com via email. The dataset is released with Google Drive due to its oversize, so you also have to provide your Gmail in the email. **Note: the permission for application is only open to researchers, faculty, engineers from universities, research institutes, and also enterprises. It is prohibited for students to apply.**
+
