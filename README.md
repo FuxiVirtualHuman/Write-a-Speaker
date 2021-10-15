@@ -1,5 +1,5 @@
 # Write-a-Speaker
-The emotional Motion Capture dataset has been introduced in our paper of “[Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation](https://arxiv.org/pdf/2104.07995.pdf)” published in AAAI2021. The [demo video](https://www.youtube.com/watch?v=weHA6LHv-Ew) shows the generated talking face results relying on the dataset. Some examples of facial expression blendshapes are illustrated as blow. The full 51 facial expression blendshapes can be observed in **./images**.
+The emotional Motion Capture dataset has been introduced in our AAAI2021 paper of “[Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation](https://arxiv.org/pdf/2104.07995.pdf)”. The [demo video](https://www.youtube.com/watch?v=weHA6LHv-Ew) shows the generated talking face results relying on the dataset. Some examples of facial expression blendshapes are illustrated as below. The full 51 facial expression blendshapes can be observed in **./images**.
 
 ![parameter 0](images/dim0.gif) ![parameter 1](images/dim1.gif?raw=true) ![parameter 15](images/dim15.gif?raw=true)
 
